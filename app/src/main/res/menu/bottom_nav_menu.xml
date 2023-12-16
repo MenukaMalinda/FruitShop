@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottomNavHome"
+        android:title="Home"
+        android:icon="@drawable/home_fill_icon"/>
+    <item
+        android:id="@+id/bottomNavWishlist"
+        android:title="Wishlist"
+        android:icon="@drawable/heart_fill_icon"/>
+    <item
+        android:id="@+id/bottomNavCart"
+        android:title="Cart"
+        android:icon="@drawable/cart_shopping_icon"/>
+    <item
+        android:id="@+id/bottomNavProfile"
+        android:title="Profile"
+        android:icon="@drawable/profile_fill_icon"/>
+</menu>
